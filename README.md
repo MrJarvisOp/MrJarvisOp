@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Vivek Kumar Gupta - AI Engineer | Software Developer | Systems Builder"/>
+  <img src="banner (1).svg" alt="Vivek Kumar Gupta - AI Engineer | Software Developer | Systems Builder"/>
 </p>
 
 <p align="center">
