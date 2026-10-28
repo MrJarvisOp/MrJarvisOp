@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner (1).svg" alt="Vivek Kumar Gupta - AI Engineer | Software Developer | Systems Builder"/>
+  <img src="banner.svg" alt="Vivek Kumar Gupta - AI Engineer | Software Developer | Systems Builder"/>
 </p>
 
 <p align="center">
@@ -17,10 +17,10 @@
 Software Engineer with 2+ years of experience building Python backends and applied AI systems: invoice and document processing, LLM workflows, RAG pipelines, and agent orchestration. I focus on structured outputs, validation of LLM results, and service designs that stay maintainable.
 
 ```text
-Role      : Software Engineer @ Chetu, Inc.
-Education : BCA, St. Andrews Institute of Technology & Management (2021 - 2024)
-Location  : Noida, Uttar Pradesh, India
-Focus     : LLM workflows, document intelligence, RAG, agent orchestration
+role      : Software Engineer @ Chetu, Inc.
+education : BCA, St. Andrews Institute of Technology & Management (2021 - 2024)
+location  : Noida, Uttar Pradesh, India
+focus     : LLM workflows, document intelligence, RAG, agent orchestration
 ```
 
 ---
@@ -151,7 +151,7 @@ flowchart LR
       <img width="100%" src="https://github-readme-stats.vercel.app/api?username=MrJarvisOp&show_icons=true&card_width=495&bg_color=0B1018&border_color=283344&title_color=65D6AD&text_color=94A3B8&icon_color=65D6AD&ring_color=65D6AD" alt="GitHub stats"/>
     </td>
     <td align="center" width="50%">
-      <img width="100%" src="https://streak-stats.demolab.com/?user=MrJarvisOp&background=0B1018&stroke=283344&ring=65D6AD&fire=65D6AD&currStreakLabel=65D6AD&currStreakNum=F1F5F9&sideLabels=94A3B8&sideNums=F1F5F9&dates=94A3B8&border=283344" alt="GitHub streak"/>
+      <img width="100%" src="https://streak-stats.demolab.com/?user=MrJarvisOp&v=2&background=0B1018&stroke=283344&ring=65D6AD&fire=65D6AD&currStreakLabel=65D6AD&currStreakNum=F1F5F9&sideLabels=94A3B8&sideNums=F1F5F9&dates=94A3B8&border=283344" alt="GitHub streak"/>
     </td>
   </tr>
   <tr>
