@@ -17,10 +17,10 @@
 Software Engineer with 2+ years of experience building Python backends and applied AI systems: invoice and document processing, LLM workflows, RAG pipelines, and agent orchestration. I focus on structured outputs, validation of LLM results, and service designs that stay maintainable.
 
 ```text
-role      : Software Engineer @ Chetu, Inc.
-education : BCA, St. Andrews Institute of Technology & Management (2021 - 2024)
-location  : Noida, Uttar Pradesh, India
-focus     : LLM workflows, document intelligence, RAG, agent orchestration
+Role      : Software Engineer @ Chetu, Inc.
+Education : BCA, St. Andrews Institute of Technology & Management (2021 - 2024)
+Location  : Noida, Uttar Pradesh, India
+Focus     : LLM workflows, document intelligence, RAG, agent orchestration
 ```
 
 ---
