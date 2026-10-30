@@ -10,7 +10,7 @@
 
 ---
 
-## About
+## About 
 
 > I build intelligent software systems that combine AI, data pipelines, and reliable backend engineering to solve practical problems.
 
