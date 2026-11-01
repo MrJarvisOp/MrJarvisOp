@@ -33,7 +33,7 @@ focus     : LLM workflows, document intelligence, RAG, agent orchestration
 | Feb 2024 - Apr 2025 | **Software Engineer Trainee** | Chetu, Inc., Noida |
 
 <details>
-<summary>Software Engineer (Apr 2025 - Present)</summary>
+<summary>Software Engineer (Apr 2025 - Present)</summary> 
 
 - Develop Python backend services and REST APIs for enterprise AI workflows, with emphasis on structured processing, validation, and maintainable integrations.
 - Utility invoice platform (confidential client): document extraction, structured JSON responses, validation, reconciliation, and CSV exports.
