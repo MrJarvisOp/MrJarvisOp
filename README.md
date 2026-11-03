@@ -25,7 +25,7 @@ focus     : LLM workflows, document intelligence, RAG, agent orchestration
 
 ---
 
-## Experience
+## Experience 
 
 | Period | Role | Organization |
 |:--|:--|:--|
