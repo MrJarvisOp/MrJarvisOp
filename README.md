@@ -1,6 +1,6 @@
 <p align="center">
   <img src="banner (1).svg" alt="Vivek Kumar Gupta - AI Engineer | Software Developer | Systems Builder"/>
-</p>
+</p> 
 
 <p align="center">     
   <a href="https://github.com/MrJarvisOp"><img src="https://img.shields.io/badge/GitHub-MrJarvisOp-111B29?style=flat-square&logo=github&logoColor=65D6AD&labelColor=0B1018"/></a>
