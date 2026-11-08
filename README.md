@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="banner (1).svg" alt="Vivek Kumar Gupta - AI Engineer | Software Developer | Systems Builder"/>
 </p> 
 
