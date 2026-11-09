@@ -41,7 +41,7 @@ focus     : LLM workflows, document intelligence, RAG, agent orchestration
 - Normalization and validation of billing periods, meter readings, service-level fields, and financial values; classification of charges, taxes, and adjustments.
 - Invoice boundary and consolidation logic to keep service/invoice separation in multi-service documents.
 - Meeting-transcript API using Azure OpenAI: summaries, decisions, action items, formatted PDFs, stored in client-specific Azure Blob containers.
-- Contributed to a budget-forecasting AI agent and Azure AI RAG workflows.
+- Contributed to a budget-forecasting AI agent and Azure AI RAG workflows. 
 
 </details>
 
