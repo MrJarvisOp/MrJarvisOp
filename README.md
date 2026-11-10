@@ -12,7 +12,7 @@
 
 ## About    
 
-> I build intelligent software systems that combine AI, data pipelines, and reliable backend engineering to solve practical problems.
+> I build intelligent software systems that combine AI, data pipelines, and reliable backend engineering to solve practical problems. 
 
 Software Engineer with 2+ years of experience building Python backends and applied AI systems: invoice and document processing, LLM workflows, RAG pipelines, and agent orchestration. I focus on structured outputs, validation of LLM results, and service designs that stay maintainable. 
 
